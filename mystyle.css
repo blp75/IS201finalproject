@@ -1,0 +1,42 @@
+.headers{
+    color: black;
+    font-family: serif;
+    text-decoration: none;
+    font-style: bold;
+    border: 7px black solid;
+    background-color: green;
+    padding-top: 10px;
+}
+.background{
+    background-color: navy;
+}
+.title{
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.body{
+    color: white;
+    font-family: papyrus;
+    border: 7px black solid;
+    background-color: blue;
+}
+.list{
+    color: white;
+    font-family: papyrus;
+    border: 7px black solid;
+    background-color: purple;
+}
+a {
+    color: orangered;
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+a:visited{
+    color: black;
+}
